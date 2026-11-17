@@ -4,12 +4,14 @@ A small browser extension that swaps Lichess's 2D pieces for any of 37 Chess.com
 
 ## Install
 
+**[⬇ Download lichess-chesscom-pieces.zip](https://github.com/Stravix86/lichess-chesscom-pieces/releases/latest/download/lichess-chesscom-pieces.zip)** and unzip it.
+
 **Chrome / Edge / Brave**
 1. Open `chrome://extensions` and turn on **Developer mode**.
-2. Click **Load unpacked** and select this folder.
+2. Click **Load unpacked** and select the unzipped folder.
 3. Click the extension icon to pick a set, preview it, or switch it off.
 
-**Firefox:** `about:debugging` → **This Firefox** → **Load Temporary Add-on** → select `manifest.json`.
+**Firefox:** `about:debugging` → **This Firefox** → **Load Temporary Add-on** → select `manifest.json` in the unzipped folder. (Firefox removes temporary add-ons when it restarts.)
 
 ## How it stays fast
 
